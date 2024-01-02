@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hhhezhang
+- 👋 Hi, I’m He Zhang (@hhhezhang).
 - 👀 I’m interested in machine learning and AI.
 - 💞️ I’m looking to collaborate on research opportunities.
 
